@@ -123,6 +123,7 @@
                 android:background="@color/gray" />
 
             <ProgressBar
+                android:visibility="gone"
                 android:id="@+id/progressBar"
                 android:layout_width="20dp"
                 android:layout_height="20dp"
