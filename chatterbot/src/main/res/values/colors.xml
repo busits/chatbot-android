@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#A5ABB0</color>
+    <color name="gray_light">#E7eaf1</color>
+    <color name="blue">#0E29B1</color>
+    <color name="blue_light">#1961da</color>
+    <color name="red">#C45E2F</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <color name="color1">#3164d7</color>
+    <color name="color2">#d92d29</color>
+    <color name="color3">#eeaa10</color>
+    <color name="color4">#3164d7</color>
+    <color name="color5">#2e9641</color>
+
+
+
+    <color name="toolbar_start_color">#5f1165</color>
+    <color name="toolbar_end_color">#9f1045</color>
+    <color name="toolbar_shadow">#33222222</color>
+</resources>
