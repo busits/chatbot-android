@@ -14,7 +14,7 @@
         android:layout_marginRight="@dimen/simple_text_in_margin_right"
         android:layout_marginTop="@dimen/simple_text_in_margin_top"
         android:layout_toRightOf="@+id/imageView"
-        android:background="#eef1f6"
+        android:background="@drawable/incoming_speech_bubble"
         android:elevation="0.5dp"
         android:gravity="left"
         android:paddingBottom="10dp"

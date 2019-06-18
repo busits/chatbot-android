@@ -20,4 +20,18 @@
     <color name="toolbar_start_color">#5f1165</color>
     <color name="toolbar_end_color">#9f1045</color>
     <color name="toolbar_shadow">#33222222</color>
+
+
+    <color name="main_chat_background">#F1F1F1</color>
+    <color name="incoming_speech_bubble_color">#FFFFFF</color>
+    <color name="outgoing_speech_bubble_color">#FFBE00</color>
+
+
+
+
+
+
+
+
+
 </resources>

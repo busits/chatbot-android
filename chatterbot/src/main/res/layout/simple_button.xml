@@ -11,7 +11,7 @@
         android:textAllCaps="false"
         android:elevation="0dp"
         android:padding="10dp"
-        android:textColor="@color/blue_light"
+        android:textColor="@color/outgoing_speech_bubble_color"
         android:background="@drawable/button_simple"
         android:text="No, I'd like to change the time"
         android:layout_height="35dp" />
